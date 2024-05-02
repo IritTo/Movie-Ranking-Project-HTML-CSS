@@ -8,7 +8,6 @@ Welcome to the Movie Ranking Project! This is a simple web page where Irit share
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [GitHub Repository](#github-repository)
 - [CSS Stylesheet](#css-stylesheet)
 - [Screenshot](#screenshot)
 
