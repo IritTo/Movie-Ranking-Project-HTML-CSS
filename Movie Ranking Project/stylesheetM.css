@@ -1,0 +1,57 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+  font-weight: bold; /* This will make all text within body bold */
+}
+
+h1 {
+  color: #2e8b57; /* SeaGreen color */
+}
+
+h2 {
+  color: #db7093; /* PaleVioletRed color */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th {
+  background-color: #4caf50; /* Darker shade for header */
+  color: white;
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.movie-row {
+  background-color: #f2f2f2; /* Light grey for movie rows */
+}
+
+.godfather {
+  background-color: #ffd700; /* Gold color for The Godfather */
+}
+
+.casablanca {
+  background-color: #f0e68c; /* Khaki color for Casablanca */
+}
+
+.finding-nemo {
+  background-color: #add8e6; /* Light blue for Finding Nemo */
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: #ddd;
+  margin: 20px 0;
+}
