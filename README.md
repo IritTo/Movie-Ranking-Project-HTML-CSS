@@ -12,7 +12,7 @@ Welcome to the Movie Ranking Project! This is a simple web page where Irit share
 - [CSS Stylesheet](#css-stylesheet)
 - [Screenshot](#screenshot)
 - [HTML File](#html-file)
-- [Mobile Site](#mobile-site)
+
 
 ## Description
 
@@ -46,6 +46,4 @@ The CSS stylesheet used for styling the HTML page is available [here](https://gi
 
 The HTML file for the project is available [here](https://github.com/IritTo/Movie-Ranking-Project-HTML-CSS/blob/main/Movie%20Ranking%20Project/index.html).
 
-## Mobile Site
 
-You can view the mobile version of this project [here](https://iritto.github.io/Movie-Ranking-Project-HTML-CSS/).
